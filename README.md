@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitesh Bhardwaj</h1>
-https://github-profile-trophy.vercel.app/?username=Nitesh-Bhardwaj-git
-<h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitesh Bhardwaj" alt="Nitesh Bhardwaj" /></a> </p>
+<h3 align="center">A passionate coder from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitesh-Bhardwaj-git" alt="Nitesh-Bhardwaj-git"  /></a> </p>
+
 
 - 📫 How to reach me **kumarnitesh52864@gmail.com**
 
