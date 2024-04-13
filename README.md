@@ -38,6 +38,6 @@
   />
 </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Bhardwaj-git&" alt="Akash-raj-int" /></p>
+
 
 <img src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/Nitesh-Bhardwaj-git/output/snake.svg" alt="Snake animation" />
