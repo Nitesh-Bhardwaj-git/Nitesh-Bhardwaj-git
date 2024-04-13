@@ -34,6 +34,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
