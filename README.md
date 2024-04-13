@@ -39,5 +39,3 @@
 </picture>
 
 
-
-<img src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/Nitesh-Bhardwaj-git/output/snake.svg" alt="Snake animation" />
