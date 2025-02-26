@@ -24,11 +24,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Bhardwaj-git&" alt="Nitesh-Bhardwaj-git" /></p>
 
 <picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/Nitesh-Bhardwaj-git/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/Nitesh-Bhardwaj-git/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Nitesh-Bhardwaj-git/Nitesh-Bhardwaj-git/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 
